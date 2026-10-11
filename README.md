@@ -6,7 +6,9 @@ This project analyzes e-commerce sales data using Microsoft Excel to understand 
 
 ## Dashboard Preview
 
-![E-Commerce Sales Dashboard](dashboard.png)
+![E-Commerce Sales Dashboard](dashboard.png.png)
+
+
 
 ## Objectives
 - Analyze total sales and profit.
