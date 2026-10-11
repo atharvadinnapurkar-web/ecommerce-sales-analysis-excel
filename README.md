@@ -3,6 +3,11 @@
 ## Project Overview
 This project analyzes e-commerce sales data using Microsoft Excel to understand sales performance, profitability, product performance, and regional performance.
 
+
+## Dashboard Preview
+
+![E-Commerce Sales Dashboard](dashboard.png)
+
 ## Objectives
 - Analyze total sales and profit.
 - Compare product and category performance.
